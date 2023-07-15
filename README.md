@@ -1,6 +1,8 @@
 # Climato App
 
+<img width="1433" alt="image" src="https://github.com/Vishalr32/climato-app/assets/75670364/06af5a20-f0f1-4191-8a4f-ab159d63a872">
 React Weather Application
+
 
 This is a React-based weather application that allows users to check the current weather conditions for a specific location. The application retrieves weather data from an external API and displays it in a user-friendly interface.
 
